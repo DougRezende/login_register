@@ -11,8 +11,8 @@ Futuramente irei implementar uma webApi .NET
 • CSS<br>
 • JavaScript<br> </em>
 
-### Imagens 
-<em>(Site totalmente resposivo)</em>
+# Imagens 
+#### <em>Site totalmente resposivo</em>
 
 ## Versão Mobile
 
