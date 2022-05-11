@@ -1,5 +1,5 @@
 # Formulário Login/Registro 
-[![NPM](https://img.shields.io/github/license/DougRezende/UIForm)](https://github.com/DougRezende/login-register/blob/main/LICENSE)
+[![NPM](https://img.shields.io/github/license/DougRezende/login_register)](https://github.com/DougRezende/login_register/blob/main/LICENSE)
 
 # Sobre o Projeto
 
@@ -39,6 +39,9 @@ Futuramente irei implementar uma webApi .NET
 #### <em>╚ Gif Desktop</em>
 
 <br>
+
+<strong><em>Site:</em></strong><br>
+https://meek-sable-426547.netlify.app/index.html
 
 <em>Project by <strong>Douglas Rezende</strong></em>
 
